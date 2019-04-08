@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+.page {
+	max-width: 50
+	em ;
+	background: white ;
+	margin-left: auto;
+	margin-left: auto;
+	padding: 1em;
+	border: solid;
+}
+h1 { color: saddlebrown; text-align:center; border: dashed #8E8485}
+h3 { color: #8E8485; }
+p { font-size: small  font-family: "Arial Black"; border: medium; }
+img{
+	display:block;
+	width:auto;
+	margin-left:auto;
+	margin-right:auto;
+max-width: 100% ;}
+html, body{ background-color: blanchedalmond;
+margin-left: 70px;
+margin-right: 70px;
+padding: 0;
+}
+
